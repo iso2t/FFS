@@ -1,6 +1,6 @@
 # FFS — *For Fuck’s Sake*
 
-> _Why Not?_ -SuperScary (circa 2025)
+> _Why Not?_ -iso2t (circa 2025)
 
 A spiritual successor to [Brainfuck](https://esolangs.org/wiki/Brainfuck), designed for when you want the **raw power of direct memory fuckery** but with a little less masochism.
 
